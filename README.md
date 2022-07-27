@@ -1,10 +1,5 @@
 # movie-db
 
-# Changes from assignment
-- Used tailwind due to short time.
-
-### Could not complete all the requirements in the given document because I'm in the middle of shifting my residence. If I'm given extra time all functionalities will be implemented accordingly.
-
 ## Project setup
 ```
 npm install
